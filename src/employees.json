@@ -1,0 +1,16 @@
+{
+    "dolgozok": [
+        {
+            "nev": "Béla",
+            "telepules": "Szeged"
+        },
+        {
+            "nev": "Teri",
+            "telepules": "Szolnok"
+        },
+        {
+            "nev": "Lajos",
+            "telepules": "Hatvan"
+        }
+    ]
+}
